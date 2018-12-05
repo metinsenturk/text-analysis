@@ -9,20 +9,20 @@ In order keep the project active, we will be meeting on a weekly basis in order 
 ## Meeting Details
 
 | Date | Meeting # | Description |
-| --- | ----------- |  -------------------------------- |
+| --- | ----------- | -------------------------------- |
 | 2018.12.04 | Meeting 1 | Project structure and definition is discussed. |
 
 Meetings will be updated regularly.
 
 ## To Do List
 
-To Do List of Release 0.1.0 (Current)
+### To Do List of Release 0.1.0 (Current)
 
 - [ ] Defining project introduction
 - [ ] Defining objectives, KPIs and goals
 - [ ] General exploration of NLP based on courses, tutorials, etc.
 
-To Do List of Release 0.1.x (Future)
+### To Do List of Release 0.1.x (Future)
 
 - [ ] Achieving consensus for objectives
 - [ ] Achieving consensus for EDA
@@ -32,15 +32,17 @@ To Do List of Release 0.1.x (Future)
 - [ ] Achieving consensus for model evaluation
 - [ ] Achieving consensus for performance metrics
 
-## Releases
+## Planned Releases
 
-- 0.0.1 Completing Project Structure & Definition
-- 0.1.0 First Draft of Documentation
-- 0.2.0 Expoloratory Data Analysis
+The following versions will be decided for the given accomplishments, respectively.
 
-- 1.0.0 Text summarization
-- 2.0.0 Text Classification
+- [x] 0.0.1 Completing Project Structure & Definition
+- [ ] 0.1.0 First Draft of Documentation
+- [ ] 0.2.0 Expoloratory Data Analysis
+- [ ] 1.0.0 Text summarization
+- [ ] 2.0.0 Text Classification
 
 ## Footnote
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project branching based on the <a target="_blank" href="https://nvie.com/posts/a-successful-git-branching-model/">A Successful Git Branching Model</a>. By Vincent Driessen.</small></p>
