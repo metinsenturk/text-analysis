@@ -34,7 +34,7 @@ Meetings will be updated regularly.
 
 The following versions will be decided for the given accomplishments, respectively.
 
-- [x] 0.0.1 Completing Project Structure & Definition
+- [ ] 0.0.1 Completing Project Structure & Definition
 - [ ] 0.1.0 First Draft of Documentation
 - [ ] 0.2.0 Expoloratory Data Analysis
 - [ ] 1.0.0 Text summarization
