@@ -12,6 +12,8 @@ In order keep the project active, we will be meeting on a weekly basis in order 
 | --- | ----------- |  -------------------------------- |
 | 2018.12.04 | Meeting 1 | Project structure and definition is discussed. |
 
+Meetings will be updated regularly.
+
 ## To Do List
 
 To Do List of Release 0.1.0 (Current)
