@@ -6,7 +6,7 @@ This library is for us to explore natural language processing (NLP) techniques. 
 
 In order keep the project active, we will be meeting on a weekly basis in order discuss and determine tasks for past and future assignments.
 
-### Meeting Details
+## Meeting Details
 
 | Date | Meeting # | Description |
 | --- | ----------- |  -------------------------------- |
