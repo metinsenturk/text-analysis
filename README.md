@@ -1,12 +1,10 @@
 # Text Analysis
 
-This library is for us to explore natural language processing (NLP) techniques. We will be implementing some of the NLP models to the Hacker News Dataset.
+This library is for us to explore natural language processing (NLP) techniques. We will be implementing some of the NLP models to the Hacker News Dataset. The goal is to expand our NLP knowledge and implement some of the standard NLP products like topic modeling, text summarization, etc. The objective is to have a working python application that will be able to apply selection NLP methods to any given text.
 
 ## Meetings
 
 In order keep the project active, we will be meeting on a weekly basis in order discuss and determine tasks for past and future assignments.
-
-## Meeting Details
 
 | Date | Meeting # | Description |
 | --- | ----------- | -------------------------------- |
@@ -16,13 +14,13 @@ Meetings will be updated regularly.
 
 ## To Do List
 
-### To Do List of Release 0.1.0 (Current)
+### To Do List of Release 0.0.1 (Current)
 
 - [ ] Defining project introduction
 - [ ] Defining objectives, KPIs and goals
 - [ ] General exploration of NLP based on courses, tutorials, etc.
 
-### To Do List of Release 0.1.x (Future)
+### To Do List of Release 0.0.x (Future)
 
 - [ ] Achieving consensus for objectives
 - [ ] Achieving consensus for EDA
